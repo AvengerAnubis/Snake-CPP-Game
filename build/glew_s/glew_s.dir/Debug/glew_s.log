@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/Users/Admen/source/Snake/deps/glew/build/cmake/CMakeLists.txt
+  glew.c
+  glew_s.vcxproj -> C:\Users\Admen\source\Snake\build\lib\Debug\libglew32d.lib

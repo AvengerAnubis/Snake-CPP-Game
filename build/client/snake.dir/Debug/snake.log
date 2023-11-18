@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/Admen/source/Snake/src/CMakeLists.txt
+  main.cpp
+C:\Users\Admen\source\Snake\src\main.cpp(1,1): warning C4005: GLEW_STATIC: изменение макроопределения
+  C:\Users\Admen\source\Snake\src\main.cpp(1,1):
+  "GLEW_STATIC" ранее объявлен в командной строке
+  
+C:\Users\Admen\source\Snake\src\main.cpp(336,68): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+C:\Users\Admen\source\Snake\src\main.cpp(336,68): warning C4244:         with
+C:\Users\Admen\source\Snake\src\main.cpp(336,68): warning C4244:         [
+C:\Users\Admen\source\Snake\src\main.cpp(336,68): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Admen\source\Snake\src\main.cpp(336,68): warning C4244:         ]
+  shader.cpp
+C:\Users\Admen\source\Snake\src\shader.h(3,1): warning C4005: GLEW_STATIC: изменение макроопределения
+  (компиляция исходного файла "../../src/shader.cpp")
+  C:\Users\Admen\source\Snake\src\shader.h(3,1):
+  "GLEW_STATIC" ранее объявлен в командной строке
+  
+  Создание кода...
+  snake.vcxproj -> C:\Users\Admen\source\Snake\src\bin\Debug\snake.exe

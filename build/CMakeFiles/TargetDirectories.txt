@@ -1,0 +1,16 @@
+C:/Users/Admen/source/Snake/build/CMakeFiles/INSTALL.dir
+C:/Users/Admen/source/Snake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admen/source/Snake/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Admen/source/Snake/build/glfw/CMakeFiles/uninstall.dir
+C:/Users/Admen/source/Snake/build/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Admen/source/Snake/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admen/source/Snake/build/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Admen/source/Snake/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Admen/source/Snake/build/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Admen/source/Snake/build/glew_s/CMakeFiles/glew.dir
+C:/Users/Admen/source/Snake/build/glew_s/CMakeFiles/glew_s.dir
+C:/Users/Admen/source/Snake/build/glew_s/CMakeFiles/INSTALL.dir
+C:/Users/Admen/source/Snake/build/glew_s/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admen/source/Snake/build/client/CMakeFiles/snake.dir
+C:/Users/Admen/source/Snake/build/client/CMakeFiles/INSTALL.dir
+C:/Users/Admen/source/Snake/build/client/CMakeFiles/ALL_BUILD.dir

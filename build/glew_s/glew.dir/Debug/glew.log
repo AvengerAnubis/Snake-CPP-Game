@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Admen/source/Snake/deps/glew/build/cmake/CMakeLists.txt
+  glew.c
+     Создается библиотека C:/Users/Admen/source/Snake/build/lib/Debug/glew32d.lib и объект C:/Users/Admen/source/Snake/build/lib/Debug/glew32d.exp
+LINK : warning LNK4281: нежелательный базовый адрес 0x62AA0000 для образа x64; для наилучшей оптимизации ASLR установите базовый адрес выше 4 ГБ
+  glew.vcxproj -> C:\Users\Admen\source\Snake\build\bin\Debug\glew32d.dll
